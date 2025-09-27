@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jiayu Ding / Peking University"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jiayu Ding"
 description: &description "Personal academic website of Jiayu Ding, a Master's student at Peking University focusing on LLMs for 3D and video understanding."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,9 +26,9 @@ author:
   avatar           : "001.png"
   name             : "Jiayu Ding"
   pronouns         : # example: "she/her"  
-  bio              : "Peking University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Welcome! There is some basic information about me."
+  location         : "Shenzhen, China"
+  employer         : "Peking University"
   uri              : # URL
   email            : "jyding@stu.pku.edu.cn" 
 
