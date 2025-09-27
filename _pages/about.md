@@ -1,32 +1,8 @@
----
-permalink: /
-title: "Jiayu Ding (丁家钰)"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 <div style="text-align: center;">
   <h1>Hi there, I'm Jiayu Ding (丁家钰) 👋</h1>
 </div>
 
-<p align="center">
-  <a href="mailto:jyding25@stu.pku.edu.cn">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-green?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="[YOUR_CV_LINK]">
-    <img src="https://img.shields.io/badge/CV-Download-blue?style=for-the-badge&logo=read-the-docs" alt="CV"/>
-  </a>
-  <a href="[YOUR_GOOGLE_SCHOLAR_LINK]">
-    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar" alt="Google Scholar"/>
-  </a>
-  <a href="[YOUR_GITHUB_LINK]">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
