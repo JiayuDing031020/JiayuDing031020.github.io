@@ -1,6 +1,11 @@
-<div style="text-align: center;">
-  <h1>Hi there, I'm Jiayu Ding (丁家钰) 👋</h1>
-</div>
+---
+permalink: /
+title: "Jiayu Ding (丁家钰)"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 ## 👨‍💻 About Me
 
