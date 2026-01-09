@@ -38,13 +38,13 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 
 [4] **VISTA: Mitigating Semantic Inertia in Video-LLMs via Training-Free Dynamic Chain-of-Thought Routing** [[Paper]](https://arxiv.org/html/2505.11830v3)
 <br>
-Hongbo Jin<sup>*</sup>, **Jiayu Ding**<sup>*</sup>, Siyi Xie<sup>*</sup>, Guibo Luo, Ge Li✉.
+Hongbo Jin\*, **Jiayu Ding**\*, Siyi Xie\*, Guibo Luo, Ge Li✉.
 <br>
 *The first to identify "Semantic Inertia" in Video-LLMs where visual evidence is suppressed. By proposing VISTA (a training-free dynamic Chain-of-Thought routing framework), it effectively aligns perception with logic, surpassing base models and rivaling larger proprietary models.*
 
 [5] **TIR-Flow: Active Video Search and Reasoning with Frozen VLMs**
 <br>
-Hongbo Jin<sup>*</sup>, Siyi Xie<sup>*</sup>, **Jiayu Ding**<sup>*</sup>, Kuanwei Lin, Ge Li✉.
+Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li✉.
 <br>
 *Integrated a System-2-like active visual exploration paradigm into Video-LLMs, significantly enhancing long-video understanding via a training-free dynamic evidence search and reasoning process.*
 
