@@ -24,13 +24,13 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 <br>
 *The first to elevate the understanding primitive of open-vocabulary 3D Gaussian Splatting from geometric points to semantic objects, achieving state-of-the-art performance across multiple benchmarks.*
 
-[2] **Open-Vocabulary 3D Instruction Ambiguity Detection**
+[2] **Open-Vocabulary 3D Instruction Ambiguity Detection** [[Paper]](https://arxiv.org/abs/2601.05991v1)
 <br>
 **Jiayu Ding**, Haoran Tang, Ge Li✉.
 <br>
 *The first to introduce the task of open-vocabulary instruction ambiguity detection in 3D scene understanding, establishing state-of-the-art results via a novel VLM-based 3D reasoning framework.*
 
-[3] **A Dual-Layer Complex Network-Based Quantitative Flood Vulnerability Assessment Method of Transportation Systems** [[DOI]](https://doi.org/10.3390/land13060753)
+[3] **A Dual-Layer Complex Network-Based Quantitative Flood Vulnerability Assessment Method of Transportation Systems** [[Paper]](https://doi.org/10.3390/land13060753)
 <br>
 **Jiayu Ding**, Yuewei Wang✉, Chaoyue Li. (*Land, 2024*)
 <br>
@@ -42,11 +42,6 @@ Hongbo Jin\*, **Jiayu Ding**\*, Siyi Xie\*, Guibo Luo, Ge Li✉.
 <br>
 *The first to identify "Semantic Inertia" in Video-LLMs where visual evidence is suppressed. By proposing VISTA (a training-free dynamic Chain-of-Thought routing framework), it effectively aligns perception with logic, surpassing base models and rivaling larger proprietary models.*
 
-[5] **TIR-Flow: Active Video Search and Reasoning with Frozen VLMs**
-<br>
-Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li✉.
-<br>
-*Integrated a System-2-like active visual exploration paradigm into Video-LLMs, significantly enhancing long-video understanding via a training-free dynamic evidence search and reasoning process.*
 
 ## 📫 Contact
 
