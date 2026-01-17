@@ -54,17 +54,15 @@ Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li.
 <p>
   I maintain an open mind toward cutting-edge technologies.
   <br><br>
-  <b>Research:</b> I welcome motivated students to join my collaborative network. <br>
+  <b>Research:</b> I warmly welcome students and researchers to reach out for potential collaboration. <br>
   <b>Entrepreneurship:</b> I firmly believe that <b>AI Agents</b> will reshape the landscape of education. If you are also exploring the <b>AI4Edu</b> path, I would love to connect and exchange ideas.
   <br><br>
   📧 <b>Email:</b> <a href="mailto:jyding25@stu.pku.edu.cn">jyding25@stu.pku.edu.cn</a>
 </p>
 
 <br>
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<p style="text-align: center; color: #888; font-size: 14px; margin-top: 20px;">
-  <span id="busuanzi_container_site_pv">
-    Total Views: <span id="busuanzi_value_site_pv"></span>
-  </span>
-</p>
+<div align="center">
+  <a href="https://clustrmaps.com/site/1c90t" title="Visit tracker">
+    <img src="//www.clustrmaps.com/map_v2.png?d=6frbqPN-kgfZ2vlzx_xvwSxJvTRbzeq5g7qsJemoOYc&cl=ffffff">
+  </a>
+</div>
