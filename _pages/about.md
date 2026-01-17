@@ -42,9 +42,29 @@ Hongbo Jin\*, **Jiayu Ding**\*, Siyi Xie\*, Guibo Luo, Ge Li✉.
 <br>
 *The first to identify "Semantic Inertia" in Video-LLMs where visual evidence is suppressed. By proposing VISTA (a training-free dynamic Chain-of-Thought routing framework), it effectively aligns perception with logic, surpassing base models and rivaling larger proprietary models.*
 
+[5] **TIR-Flow: Active Video Search and Reasoning with Frozen VLMs** [[Paper]](https://arxiv.org/abs/2601.06176)
+<br>
+Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li.
+<br>
+*Proposes TIR-Flow, a training-free framework that enables frozen VLMs to perform "System-2" active visual search and reasoning, achieving significant gains (+10.5% on Egoschema) without any parameter updates.*
+
 
 ## 📫 Contact
 
-I am always open to discussing research collaborations or new ideas. Please feel free to reach out via email:
+<p>
+  I maintain an open mind toward cutting-edge technologies.
+  <br><br>
+  <b>Research:</b> I welcome motivated students to join my collaborative network. <br>
+  <b>Entrepreneurship:</b> I firmly believe that <b>AI Agents</b> will reshape the landscape of education. If you are also exploring the <b>AI4Edu</b> path, I would love to connect and exchange ideas.
+  <br><br>
+  📧 <b>Email:</b> <a href="mailto:jyding25@stu.pku.edu.cn">jyding25@stu.pku.edu.cn</a>
+</p>
+
 <br>
-**[jyding25@stu.pku.edu.cn](mailto:jyding25@stu.pku.edu.cn)**
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<p style="text-align: center; color: #888; font-size: 14px; margin-top: 20px;">
+  <span id="busuanzi_container_site_pv">
+    Total Views: <span id="busuanzi_value_site_pv"></span>
+  </span>
+</p>
