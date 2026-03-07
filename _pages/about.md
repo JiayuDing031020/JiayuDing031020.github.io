@@ -18,9 +18,9 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 
 <small>(*: Equal Contribution, ✉: Corresponding Author)</small>
 
-[1] **Polysemous Language Gaussian Splatting via Matching-based Mask Lifting** [[Paper]](https://arxiv.org/abs/2509.22225)
+[1] **ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting** 
 <br>
-**Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉.
+**Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉.  (*CVPR, 2026*)
 <br>
 *The first to elevate the understanding primitive of open-vocabulary 3D Gaussian Splatting from geometric points to semantic objects, achieving state-of-the-art performance across multiple benchmarks.*
 
