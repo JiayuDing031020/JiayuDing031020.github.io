@@ -20,19 +20,23 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 
 [1] **ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting** 
 <br>
-**Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉.  (*CVPR, 2026*)
+**Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉.  [[Paper]](https://arxiv.org/abs/2509.22225)
+<br>
+*CVPR, 2026* 
 <br>
 *The first to elevate the understanding primitive of open-vocabulary 3D Gaussian Splatting from geometric points to semantic objects, achieving state-of-the-art performance across multiple benchmarks.*
 
-[2] **Open-Vocabulary 3D Instruction Ambiguity Detection** [[Paper]](https://arxiv.org/abs/2601.05991v1)
+[2] **3D Instruction Ambiguity Detection** [[Paper]](https://arxiv.org/abs/2601.05991)
 <br>
-**Jiayu Ding**, Haoran Tang, Ge Li✉.
+**Jiayu Ding**, Haoran Tang, Hongbo Jin, Wei Gao, Ge Li✉.
 <br>
 *The first to introduce the task of open-vocabulary instruction ambiguity detection in 3D scene understanding, establishing state-of-the-art results via a novel VLM-based 3D reasoning framework.*
 
 [3] **A Dual-Layer Complex Network-Based Quantitative Flood Vulnerability Assessment Method of Transportation Systems** [[Paper]](https://doi.org/10.3390/land13060753)
 <br>
-**Jiayu Ding**, Yuewei Wang✉, Chaoyue Li. (*Land, 2024*)
+**Jiayu Ding**, Yuewei Wang✉, Chaoyue Li. 
+<br>
+*Land, 2024*
 <br>
 *The first to apply a dual-layer complex network model to quantitatively assess the flood vulnerability of transportation systems.*
 
