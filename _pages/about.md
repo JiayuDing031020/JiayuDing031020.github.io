@@ -22,7 +22,7 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 <br>
 **Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉. 
 <br>
-*CVPR, 2026* 
+**IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026**
 <br>
 *The first to elevate the understanding primitive of open-vocabulary 3D Gaussian Splatting from geometric points to semantic objects, achieving state-of-the-art performance across multiple benchmarks.*
 
@@ -30,13 +30,15 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 <br>
 **Jiayu Ding**, Haoran Tang, Hongbo Jin, Wei Gao, Ge Li✉.
 <br>
+**Under Review 2026**
+<br>
 *The first to introduce the task of open-vocabulary instruction ambiguity detection in 3D scene understanding, establishing state-of-the-art results via a novel VLM-based 3D reasoning framework.*
 
 [3] **A Dual-Layer Complex Network-Based Quantitative Flood Vulnerability Assessment Method of Transportation Systems** [[Paper]](https://doi.org/10.3390/land13060753)
 <br>
 **Jiayu Ding**, Yuewei Wang✉, Chaoyue Li. 
 <br>
-*Land, 2024*
+**Land, 2024**
 <br>
 *The first to apply a dual-layer complex network model to quantitatively assess the flood vulnerability of transportation systems.*
 
@@ -44,11 +46,15 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 <br>
 Hongbo Jin\*, **Jiayu Ding**\*, Siyi Xie\*, Guibo Luo, Ge Li✉.
 <br>
+**Under Review 2026**
+<br>
 *The first to identify "Semantic Inertia" in Video-LLMs where visual evidence is suppressed. By proposing VISTA (a training-free dynamic Chain-of-Thought routing framework), it effectively aligns perception with logic, surpassing base models and rivaling larger proprietary models.*
 
 [5] **TIR-Flow: Active Video Search and Reasoning with Frozen VLMs** [[Paper]](https://arxiv.org/abs/2601.06176)
 <br>
 Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li.
+<br>
+**Under Review 2026**
 <br>
 *Proposes TIR-Flow, a training-free framework that enables frozen VLMs to perform "System-2" active visual search and reasoning, achieving significant gains (+10.5% on Egoschema) without any parameter updates.*
 
