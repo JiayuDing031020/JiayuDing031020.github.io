@@ -18,9 +18,9 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 
 <small>(*: Equal Contribution, ✉: Corresponding Author)</small>
 
-[1] **ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting** 
+[1] **ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting**  [[Paper]](https://arxiv.org/abs/2509.22225)
 <br>
-**Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉.  [[Paper]](https://arxiv.org/abs/2509.22225)
+**Jiayu Ding**, Xinpeng Liu, Zhiyi Pan, Shiqiang Long, Ge Li✉. 
 <br>
 *CVPR, 2026* 
 <br>
