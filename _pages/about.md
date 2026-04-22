@@ -34,15 +34,8 @@ My research operates at the intersection of <span style="color: #0077B6; font-we
 <br>
 *The first to introduce the task of open-vocabulary instruction ambiguity detection in 3D scene understanding, establishing state-of-the-art results via a novel VLM-based 3D reasoning framework.*
 
-[3] **A Dual-Layer Complex Network-Based Quantitative Flood Vulnerability Assessment Method of Transportation Systems** [[Paper]](https://doi.org/10.3390/land13060753)
-<br>
-**Jiayu Ding**, Yuewei Wang✉, Chaoyue Li. 
-<br>
-**Land, 2024**
-<br>
-*The first to apply a dual-layer complex network model to quantitatively assess the flood vulnerability of transportation systems.*
 
-[4] **VISTA: Mitigating Semantic Inertia in Video-LLMs via Training-Free Dynamic Chain-of-Thought Routing** [[Paper]](https://arxiv.org/html/2505.11830v3)
+[3] **VISTA: Mitigating Semantic Inertia in Video-LLMs via Training-Free Dynamic Chain-of-Thought Routing** [[Paper]](https://arxiv.org/html/2505.11830v3)
 <br>
 Hongbo Jin\*, **Jiayu Ding**\*, Siyi Xie\*, Guibo Luo, Ge Li✉.
 <br>
@@ -50,7 +43,7 @@ Hongbo Jin\*, **Jiayu Ding**\*, Siyi Xie\*, Guibo Luo, Ge Li✉.
 <br>
 *The first to identify "Semantic Inertia" in Video-LLMs where visual evidence is suppressed. By proposing VISTA (a training-free dynamic Chain-of-Thought routing framework), it effectively aligns perception with logic, surpassing base models and rivaling larger proprietary models.*
 
-[5] **TIR-Flow: Active Video Search and Reasoning with Frozen VLMs** [[Paper]](https://arxiv.org/abs/2601.06176)
+[4] **TIR-Flow: Active Video Search and Reasoning with Frozen VLMs** [[Paper]](https://arxiv.org/abs/2601.06176)
 <br>
 Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li.
 <br>
