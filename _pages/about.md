@@ -9,14 +9,14 @@ redirect_from:
 
 ## About Me
 
-I am a first-year Master's student at the School of Electronics and Computer Engineering ([SECE](https://www.ece.pku.edu.cn/)) at Peking University, where I have the privilege of being advised by Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm).
+I am a Master's student at the School of Electronics and Computer Engineering ([SECE](https://www.ece.pku.edu.cn/)) at Peking University, where I have the privilege of being advised by Prof. [Ge Li](https://www.ece.pku.edu.cn/info/1046/2658.htm).
 
 My research operates at the intersection of <span style="color: #0077B6; font-weight: bold;">Large Language Models (LLMs)</span> and spatial-temporal data. My goal is to leverage the structured knowledge and reasoning of LLMs to unlock a deeper, more semantic understanding of complex <span style="color: #009688; font-weight: bold;">3D scenes</span> and <span style="color: #673AB7; font-weight: bold;">dynamic videos</span>. I am excited to contribute to building more capable and perceptive AI systems.
 
 ## Recent News
 
 - **2026/05** - 1 paper accepted to **ICML 2026**!
-- **2026/02** - 1 papers accepted to **CVPR 2026**!
+- **2026/02** - 1 paper accepted to **CVPR 2026**!
   
 
 ## Selected Publications
@@ -64,8 +64,22 @@ Hongbo Jin\*, Siyi Xie\*, **Jiayu Ding**\*, Kuanwei Lin, Ge Li.
 <br>
 *Proposes TIR-Flow, a training-free framework that enables frozen VLMs to perform "System-2" active visual search and reasoning, achieving significant gains (+10.5% on Egoschema) without any parameter updates.*
 
+## Collaboration
 
-## 📫 Contact
+I closely collaborate with talented researchers from different universities. Most of these collaborators have contributed actively to our joint projects and achieved tangible research outcomes.
+
+- Jun Lin, China University of Geosciences (2027 Fall, ICML*1)
+- Bangpu Chen, China University of Geosciences (2027 Fall, Submitted to ACM MM)
+- Xiangtian Si, China University of Geosciences (2029 Fall, Submitted to ECCV)
+- Meilu Song, North China Electric Power University (2027 Fall, Submitted to ECCV and ACM MM)
+- ShengYao Zhou, Zhejiang University (2027 Fall, Submitted to NeurIPS and EMNLP)
+- Chaoyue Li, Huazhong University of Science and Technology (B.S. China University of Geosciences)
+- Zhuodong Liu, Xiamen University (B.S. Beijing Jiaotong University)
+- Wenqian Wang, University of Chinese Academy of Sciences (B.S. University of Jinan)
+
+I am always open to new academic exchanges and research collaborations with motivated students and researchers who are interested in 3D vision, video understanding, and visual reasoning. Please feel free to reach out to me at any time if you would like to work together on research projects.
+
+## Contact
 
 <p>
   I maintain an open mind toward cutting-edge technologies.
