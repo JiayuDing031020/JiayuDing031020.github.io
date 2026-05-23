@@ -73,6 +73,7 @@ I closely collaborate with talented researchers from different universities. Mos
 - Xiangtian Si, China University of Geosciences (2029 Fall, Submitted to ECCV)
 - Meilu Song, North China Electric Power University (2027 Fall, Submitted to ECCV and ACM MM)
 - ShengYao Zhou, Zhejiang University (2027 Fall, Submitted to NeurIPS and EMNLP)
+- Hongbo Jin, Peking University (B.S. Huazhong University of Science and Technology)
 - Chaoyue Li, Huazhong University of Science and Technology (B.S. China University of Geosciences)
 - Zhuodong Liu, Xiamen University (B.S. Beijing Jiaotong University)
 - Wenqian Wang, University of Chinese Academy of Sciences (B.S. University of Jinan)
