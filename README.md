@@ -2,7 +2,7 @@
 
 # Hi, I'm Jiayu Ding (丁家钰) 👋
 
-**Co-Founder & CTO @ [InkMind](https://inkmind-ai.com/)** · **M.S. @ Peking University (SECE)**
+**Founder & CTO @ [InkMind](https://inkmind-ai.com/)** · **M.S. @ Peking University (SECE)**
 
 <a href="https://github.com/JiayuDing031020"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://xhslink.com/m/AqyRs3t2kJr"><img src="https://img.shields.io/badge/Rednote-小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white" alt="Rednote"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-Hi! I am **Jiayu Ding (丁家钰)**, Co-Founder and CTO of [InkMind](https://inkmind-ai.com/), and a Master's student at the School of Electronics and Computer Engineering (SECE), Peking University, advised by **Prof. Ge Li**.
+Hi! I am **Jiayu Ding (丁家钰)**, Founder and CTO of [InkMind](https://inkmind-ai.com/), and a Master's student at the School of Electronics and Computer Engineering (SECE), Peking University, advised by **Prof. Ge Li**.
 
 My research operates at the intersection of **Large Language Models (LLMs)** and **spatial-temporal data** — leveraging the structured knowledge and reasoning of LLMs to unlock a deeper, more semantic understanding of complex **3D scenes** and **dynamic videos**.
 
@@ -19,7 +19,7 @@ My research operates at the intersection of **Large Language Models (LLMs)** and
 <summary><b>🇨🇳 中文介绍 (Chinese Profile)</b></summary>
 <br>
 
-我是**丁家钰**，[InkMind](https://inkmind-ai.com/) 联合创始人兼 CTO，北京大学电子与计算机工程学院（SECE）硕士研究生，师从李革教授。研究方向为大语言模型（LLMs）与时空数据的交叉，致力于借助大模型的结构化知识与推理能力，实现对复杂三维场景与动态视频更深层、更具语义的理解。
+我是**丁家钰**，[InkMind](https://inkmind-ai.com/) 创始人兼 CTO，北京大学电子与计算机工程学院（SECE）硕士研究生，师从李革教授。研究方向为大语言模型（LLMs）与时空数据的交叉，致力于借助大模型的结构化知识与推理能力，实现对复杂三维场景与动态视频更深层、更具语义的理解。
 
 </details>
 
