@@ -4,7 +4,7 @@
 
 **Co-Founder & CTO @ [InkMind](https://inkmind-ai.com/)** · **M.S. @ Peking University (SECE)**
 
-<a href="https://github.com/JiayuDing031020"><img src="https://img.shields.io/badge/GitHub-JiayuDing031020-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/JiayuDing031020"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://xhslink.com/m/AqyRs3t2kJr"><img src="https://img.shields.io/badge/Rednote-小红书-FF2442?style=flat&logo=xiaohongshu&logoColor=white" alt="Rednote"></a>
 
 </div>
@@ -25,7 +25,7 @@ My research operates at the intersection of **Large Language Models (LLMs)** and
 
 <p align="center"><i>Feel free to reach out for collaboration — always happy to chat!</i></p>
 
-📧 Email: <jyding25@stu.pku.edu.cn> · GitHub: [JiayuDing031020](https://github.com/JiayuDing031020) · Rednote: [小红书](https://xhslink.com/m/AqyRs3t2kJr)
+📧 Email: <jyding25@stu.pku.edu.cn> · GitHub: [Profile](https://github.com/JiayuDing031020) · Rednote: [小红书](https://xhslink.com/m/AqyRs3t2kJr)
 
 ---
 
