@@ -38,7 +38,7 @@ My research operates at the intersection of **Large Language Models (LLMs)** and
 | **ECCV 2026** | ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting | — |
 | **CVPR 2026** | ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting | — |
 | **ICML 2026** | 3D Scene Assertion Verification | — |
-| **Under Review** | 3D Instruction Ambiguity Detection | [arXiv](https://arxiv.org/abs/2601.05991) |
+| **Under Review** | 3D Instruction Ambiguity Detection | [arXiv](https://arxiv.org/abs/2601.05991) · [Code](https://github.com/InkMind-AI/Ambiver) · [Project](https://jiayuding031020.github.io/ambi3d/) |
 | **Under Review** | VISTA: Mitigating Semantic Inertia in Video-LLMs via Training-Free Dynamic Chain-of-Thought Routing | [arXiv](https://arxiv.org/abs/2505.11830) |
 | **Under Review** | TIR-Flow: Active Video Search and Reasoning with Frozen VLMs | [arXiv](https://arxiv.org/abs/2601.06176) |
 
