@@ -35,7 +35,9 @@ My research operates at the intersection of **Large Language Models (LLMs)** and
 
 | Venue | Paper | Links |
 |:------|:------|:------|
+<!-- ZeroSplat — uncomment to restore
 | **ECCV 2026** | ZeroSplat: Generalized Referring Segmentation in 3D Gaussian Splatting | — |
+-->
 | **CVPR 2026** | ExtrinSplat: Decoupling Geometry and Semantics for Open-Vocabulary Understanding in 3D Gaussian Splatting | — |
 | **ICML 2026** | 3D Scene Assertion Verification | — |
 | **Under Review** | 3D Instruction Ambiguity Detection | [arXiv](https://arxiv.org/abs/2601.05991) · [Code](https://github.com/InkMind-AI/Ambiver) · [Project](https://jiayuding031020.github.io/ambi3d/) |
