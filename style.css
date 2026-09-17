@@ -140,6 +140,10 @@ hr.unseen-section-divider { border: none; margin: 0 0 var(--section-gap); }
 }
 .bio-text p { margin-bottom: 12px; font-size: .96rem; }
 .bio-text p:last-child { margin-bottom: 0; }
+.bio-text .section-title {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
 .bio-badges {
   display: flex;
   flex-wrap: wrap;
