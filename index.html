@@ -260,6 +260,42 @@
     </ul>
   </section>
 
+  <!-- ======================================================
+       OPEN SOURCE
+  ====================================================== -->
+  <section id="opensource">
+    <h2 class="section-title">Open Source</h2>
+    <ul class="oss-list">
+      <li class="oss-item">
+        <a class="oss-thumb" href="https://github.com/mikubaka88/CCFA-Skills" target="_blank" rel="noopener noreferrer">
+          <img src="assets/files/work/ccfa-skills-logo.png" alt="CCFA Skills logo"
+               onerror="this.style.display='none'" />
+        </a>
+        <div class="oss-body">
+          <div class="proj-title-row">
+            <a class="proj-name" href="https://github.com/mikubaka88/CCFA-Skills" target="_blank" rel="noopener noreferrer">CCFA Skills</a>
+            <a class="gh-stars" id="ccfa-star-pill" href="https://github.com/mikubaka88/CCFA-Skills/stargazers" target="_blank" rel="noopener noreferrer" title="Live GitHub stars">
+              <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
+                <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="currentColor"/>
+              </svg>
+              <span id="ccfa-star-count">&ndash;</span>
+            </a>
+            <a class="pub-link repo-link" href="https://github.com/mikubaka88/CCFA-Skills" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+          </div>
+          <p class="proj-tagline">A skill family for shaping the research storyline of CCF-A papers.</p>
+          <p class="proj-desc">
+            CCFA Skills is a family of 17 specialized AI-agent skills that accompany a research project end-to-end &mdash;
+            from idea evaluation, literature search, and experiment design to paper writing, scientific visualization,
+            peer review, rebuttal, and submission. It keeps the research storyline coherent across revisions and works
+            seamlessly with Codex, Claude Code, Cursor, and Gemini CLI. Released under the MIT License.
+          </p>
+        </div>
+      </li>
+    </ul>
+  </section>
+
+  <hr class="unseen-section-divider" />
+
   <hr class="unseen-section-divider" />
 
   <!-- ======================================================
@@ -291,6 +327,28 @@
   </footer>
 
 </div>
+
+<script>
+(function () {
+  var countEl = document.getElementById('ccfa-star-count');
+  var pillEl = document.getElementById('ccfa-star-pill');
+  var apiUrl = 'https://api.github.com/repos/mikubaka88/CCFA-Skills';
+  var timer = null;
+  function fmt(n) { return Number(n).toLocaleString('en-US'); }
+  function showFallbackBadge() {
+    clearInterval(timer);
+    pillEl.innerHTML = '<img src="https://img.shields.io/github/stars/mikubaka88/CCFA-Skills?style=flat-square&amp;label=stars&amp;color=%232563eb" alt="GitHub stars" style="height:20px;" />';
+  }
+  function refresh() {
+    fetch(apiUrl, { headers: { 'Accept': 'application/vnd.github+json' }, cache: 'no-store' })
+      .then(function (r) { if (!r.ok) throw new Error('bad status'); return r.json(); })
+      .then(function (d) { if (typeof d.stargazers_count === 'number') countEl.textContent = fmt(d.stargazers_count); })
+      .catch(showFallbackBadge);
+  }
+  refresh();
+  timer = setInterval(refresh, 60000);
+}());
+</script>
 
 </body>
 </html>

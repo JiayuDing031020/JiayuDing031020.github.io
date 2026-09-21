@@ -670,6 +670,20 @@ hr.unseen-section-divider { border: none; margin: 0 0 var(--section-gap); }
 .oss-body .proj-desc { font-size: .87rem; color: var(--text-muted); }
 .oss-body .proj-meta { font-family: var(--font-mono); font-size: .74rem; color: var(--text-light); margin-top: 4px; }
 
+.proj-title-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.oss-body .proj-name { font-size: 1.12rem; color: var(--text); }
+.oss-body .proj-name:hover { color: var(--accent); text-decoration: none; }
+.gh-stars {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-family: var(--font-mono); font-size: .84rem;
+  color: var(--text); background: #f6f5f2; border: 1px solid var(--border);
+  padding: 3px 11px; border-radius: 6px; white-space: nowrap;
+}
+.gh-stars:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+.gh-stars svg { color: #e3b341; }
+.proj-title-row .repo-link { margin-left: auto; font-size: .8rem; padding: 4px 13px; }
+.proj-tagline { font-size: .98rem; font-style: italic; color: var(--text-muted); }
+.oss-body .proj-desc { font-size: .98rem; line-height: 1.72; }
 /* ---------- Academic Services ---------- */
 .svc-list { list-style: none; }
 .svc-item {
