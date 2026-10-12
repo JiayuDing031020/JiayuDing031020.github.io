@@ -20,6 +20,7 @@
   --tag-bg:           #f0ede8;
   --tag-border:       #d4d0c8;
   --award-color:      #b45309;
+  --contact-red:      #c62828;
   --max-width:        920px;
   --section-gap:      36px;
   --panel-bg:         rgba(255, 255, 255, .52);
@@ -144,20 +145,21 @@ hr.unseen-section-divider { border: none; margin: 0 0 var(--section-gap); }
   margin-top: 0;
   margin-bottom: 10px;
 }
-.bio-badges {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 10px;
-  line-height: 0;
+/* Contact invitation (red italic note in the bio) */
+.bio-contact {
+  margin-top: 14px;
+  color: var(--contact-red);
+  font-style: italic;
+  font-size: .93rem;
 }
-.bio-badges a { line-height: 0; }
-.bio-badges img {
-  height: 20px;
-  width: auto;
-  display: block;
-  border: none;
+.bio-contact p { margin-bottom: 4px; }
+.bio-contact p:last-child { margin-bottom: 0; }
+.bio-contact a {
+  color: var(--contact-red);
+  text-decoration: underline;
+  text-underline-offset: 2px;
 }
+.bio-contact a:hover { color: #a51f1f; }
 
 .highlight-box {
   background: var(--highlight-bg);
@@ -750,7 +752,6 @@ hr.unseen-section-divider { border: none; margin: 0 0 var(--section-gap); }
   .site-nav { gap: 3px 6px; padding: 6px 8px; }
   .site-nav a { font-size: .66rem; padding: 3px 5px; }
   .bio-section { flex-direction: column; align-items: center; text-align: center; }
-  .bio-badges { justify-content: center; }
   .social-links { justify-content: center; }
 
   .pub-item { flex-direction: column; }
